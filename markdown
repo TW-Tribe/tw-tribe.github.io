@@ -1,4 +1,3 @@
-
 # docs-as-code
 Docs as code tutorial
 
@@ -141,4 +140,3 @@ If you’re looking for the simplest possible way to create a website with Markd
  * Linux: ReText or ghostwriter
  * Web: Dillinger or StackEdit
  * Others: VSC (Visual Source Code editor)
-
