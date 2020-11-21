@@ -30,7 +30,7 @@ Markdown application uses a Markdown processor, also called as parser to convert
 
 ## Key Elements
 1. Headings
-2. Paragraphs
+2. Paragraphs 
 3. Formatting: Italics and Bold
 4. Lists
 4. Links
