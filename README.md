@@ -2,6 +2,15 @@
 # docs-as-code
 Docs as code tutorial
 
+Heading for three dashes
+---
+
+Para 1  
+Para 2
+
+## Images
+![Screenshot 2020-07-03 at 8 53 31 AM](https://user-images.githubusercontent.com/70775241/99977683-f9a64800-2dca-11eb-8eb3-3d2703fc836c.png)
+
 ## What is Markdown
 Markdown is a lightweight text format that 
   * allows writers to focus more on writing 
